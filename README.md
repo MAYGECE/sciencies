@@ -1,2 +1,2 @@
-# sciencies
+# sciences
 Sitio web trabajo práctico. 
